@@ -8,5 +8,5 @@ Thomas High School 9th graders omitted from the dataset. To do this, all 9th gra
 scored were set to NaN in the data set.
 
 ## Results
-- ### Total Schools
-- Since Thomas High School still had 
+### - Total Schools
+Since Thomas High School still had 
